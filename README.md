@@ -116,7 +116,7 @@ Each completed kata includes a screenshot like this:
 6 kyu: ░░░░░░░░░░░░░░░░░░░░░░░░░       00/25
 5 kyu: ░░░░░░░░░░░░░░░                 00/15
 
-Total: 0/95 challenges completed
+Total: 20/95 challenges completed
 ```
 
 ---
