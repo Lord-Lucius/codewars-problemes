@@ -1,6 +1,6 @@
 # 🎮 CodeWars Game
 
-**Solving CodeWars kata across multiple languages**
+**Solving CodeWars kata across multiple languages ( Python first )**
 
 > *"Every kata solved is a step closer to mastery." — Musashi Miyamoto*
 
@@ -50,6 +50,12 @@ codewars_game/
 
 ## 💻 Languages
 
+### Python
+```python
+def hello():
+    return "Hello, CodeWars!"
+```
+
 ### C
 ```c
 #include <stdio.h>
@@ -68,12 +74,6 @@ int main() {
     std::cout << "Hello, CodeWars!" << std::endl;
     return 0;
 }
-```
-
-### Python
-```python
-def hello():
-    return "Hello, CodeWars!"
 ```
 
 ### Rust
@@ -101,12 +101,10 @@ Each completed kata includes a screenshot like this:
 
 ## 🎓 Why Multiple Languages?
 
+- **Python** → Quick prototyping, readability
 - **C** → Systems thinking, memory management
 - **C++** → OOP, STL, modern features
-- **Python** → Quick prototyping, readability
 - **Rust** → Safety, performance, ownership
-
-Solving the same problem in different languages reveals new perspectives! 🔄
 
 ---
 
@@ -126,7 +124,7 @@ Total: 0/95 challenges completed
 ## 🔗 Resources
 
 - [CodeWars Official](https://www.codewars.com/)
-- [My CodeWars Profile](https://www.codewars.com/users/Lord-Lucius)
+- [My CodeWars Profile](https://www.codewars.com/users/Luciussssssss)
 
 ---
 
