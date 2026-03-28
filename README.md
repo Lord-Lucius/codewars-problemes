@@ -111,12 +111,12 @@ Each completed kata includes a screenshot like this:
 ## 📊 Progress
 
 ```
-8 kyu: █████████████████░░░░░░░░       17/25
+8 kyu: ████████████████████░░░░░       20/25
 7 kyu: ██████░░░░░░░░░░░░░░░░░░░░░░░░  05/30
 6 kyu: ░░░░░░░░░░░░░░░░░░░░░░░░░       00/25
 5 kyu: ░░░░░░░░░░░░░░░░░░░░            00/20
 
-Total: 22/100 challenges completed
+Total: 25/100 challenges completed
 ```
 
 ---
