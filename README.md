@@ -25,7 +25,7 @@ For each kata, you'll find:
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure (example)
 
 ```
 codewars_game/
@@ -48,7 +48,7 @@ codewars_game/
 
 ---
 
-## 💻 Languages
+## 💻 Languages (example)
 
 ### Python
 ```python
@@ -111,12 +111,12 @@ Each completed kata includes a screenshot like this:
 ## 📊 Progress
 
 ```
-8 kyu: ███████████████░░░░░░░░░░       15/25
+8 kyu: █████████████████░░░░░░░░       17/25
 7 kyu: ██████░░░░░░░░░░░░░░░░░░░░░░░░  05/30
 6 kyu: ░░░░░░░░░░░░░░░░░░░░░░░░░       00/25
 5 kyu: ░░░░░░░░░░░░░░░░░░░░            00/20
 
-Total: 20/100 challenges completed
+Total: 22/100 challenges completed
 ```
 
 ---
