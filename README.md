@@ -10,8 +10,8 @@
 
 This repository documents my journey solving **CodeWars kata** (coding challenges). Each solution includes a screenshot proof of completion and implementations in multiple programming languages.
 
-**Languages:** C, C++, Python, Rust  
-**Platform:** [CodeWars](https://www.codewars.com/)  
+**Languages:** C, C++, Python, Rust
+**Platform:** [CodeWars](https://www.codewars.com/)
 **Goal:** Master problem-solving across different paradigms
 
 ---
@@ -112,7 +112,7 @@ Each completed kata includes a screenshot like this:
 
 ```
 8 kyu: █████████████████████████       25/25
-7 kyu: ██████░░░░░░░░░░░░░░░░░░░░░░░░  05/30
+7 kyu: █████████████░░░░░░░░░░░░░░░░░  13/30
 6 kyu: ░░░░░░░░░░░░░░░░░░░░░░░░░       00/25
 5 kyu: ░░░░░░░░░░░░░░░░░░░░            00/20
 
